@@ -4,7 +4,7 @@
 
 ![面试题截图](https://raw.githubusercontent.com/goeasyway/SimpleListDemo/master/ScreenShot/android_exercise.jpeg)
 
-具体的说明可以我看的简书：[goeasyway](http://www.jianshu.com/users/f9fbc7a39b36/latest_articles)
+具体的说明可以看我的简书文章：[goeasyway](http://www.jianshu.com/users/f9fbc7a39b36/latest_articles)
 
 对Android面试有兴趣的可以关注我的公从号：
 
