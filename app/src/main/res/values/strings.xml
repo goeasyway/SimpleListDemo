@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleListDemo</string>
+    <string name="update_data_hint">Loaded %1$d items from network.</string>
+</resources>
